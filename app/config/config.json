@@ -6,7 +6,7 @@
 		"port": "33127",
 		"name": "chat_app"
 	},
-	"sessionSecret": "<RandomString>",
+	"sessionSecret": "razorpod-chat",
 	"facebook": {
 		"clientID": "<AppID>",
 		"clientSecret": "<AppSecret>",
