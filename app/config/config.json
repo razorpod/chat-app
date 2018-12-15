@@ -1,10 +1,10 @@
 {
 	"db": {
-		"username": "chat_admin",
-		"password": "chat_admin_1994",
-		"host": "ds133127.mlab.com",
-		"port": "33127",
-		"name": "chat_app"
+		"username": "sample",
+		"password": "sample",
+		"host": "sample",
+		"port": "sample",
+		"name": "sample"
 	},
 	"sessionSecret": "razorpod-chat",
 	"facebook": {
